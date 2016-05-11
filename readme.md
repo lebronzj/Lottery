@@ -11,6 +11,6 @@ See it in action: http://qieguo2016.github.io/Lottery/
 Screenshot
 ---
 
-1. ![alt tag](https://github.com/QieGuo2016/AudioVisualizer/blob/master/img/Screenshot_01.png?raw=true)
+1. ![alt tag](https://github.com/qieguo2016/Lottery/blob/master/img/Screenshot_01.png)
 
-2. ![alt tag](https://github.com/QieGuo2016/AudioVisualizer/blob/master/img/Screenshot_02.png?raw=true)
+2. ![alt tag](https://github.com/qieguo2016/Lottery/blob/master/img/Screenshot_02.png)
